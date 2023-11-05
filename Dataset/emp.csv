@@ -1,0 +1,6 @@
+EmployeeID,FirstName,LastName,Department,Salary,JoinDate
+1,John,Doe,Sales,55000,2018-02-15
+2,Jane,Smith,Marketing,60000,2019-06-11
+3,Bob,Johnson,Engineering,65000,2017-03-30
+4,Alice,Davis,Product,70000,2020-07-24
+5,Chris,Miller,Customer Support,45000,2021-01-12
