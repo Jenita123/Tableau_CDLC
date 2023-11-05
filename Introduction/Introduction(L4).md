@@ -1,4 +1,4 @@
-| Term                 | Simple Meaning                                           | Real-Time Example                                                         |
+| Term                 |  Meaning                                           |  Example                                                         |
 |----------------------|----------------------------------------------------------|---------------------------------------------------------------------------|
 | **Dimension**        | Categories or groups for your data, like names or dates. | Grouping coffee shop orders by "Type of Drink" like espresso, latte, etc. |
 | **Measure**          | Numbers you can do math on, like sales or temperatures.  | Adding up all the "Total Sales" from each coffee shop branch.             |
